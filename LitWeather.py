@@ -38,7 +38,8 @@ choice = input("Enter choice(1/2/3/4/5/6/7/8/9):")
 degrees = eval(input("How many degrees do you THINK it is outside?: "))
 
 if choice == '1':
-    print("Actually it's", Fahrenheit(degrees) ,"Kelvins! That's grillin' weather!")
+    print("Actually it's", Fahrenheit(degrees) ,"Kelvins! That's grillin' weather! Pop open a cold one, grab your "
+                                                "favorite red, white, and blue shorts, and meet me outside!")
 
 elif choice == '2':
     print("Actually it's", Fahrenheit(degrees) ,"Kelvins! Great scuba weather. Say Scuba. Scuba. It's a great word.")
