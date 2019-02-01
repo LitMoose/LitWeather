@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import random
+
 print("   .-^-.      llll         iiii    ttttttttttttt")
 print("  /_/_\_\     llll         iiii    ttttttttttttt")
 print(" ' ' | ' '    llll         iiii        tttt")
@@ -75,7 +77,16 @@ elif choice == '1337':
 
 elif choice == '69': 
     print("This is not the app you're looking for.")
-    
+
+elif choice == '42':
+    print(random.choice((
+        "So long, and thanks for all the fish!",
+        "DON'T PANIC!",
+        "Mostly Harmless",
+        "Oh no, not again..."
+        )
+    ))
+
 else:
     print("Well, this is awkward. Did you use a space? Was there a typo? Are you messing with me? "
           "I'm not great at this yet. My peer reviewer was a cat.")
