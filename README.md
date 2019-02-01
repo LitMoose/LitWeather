@@ -1,6 +1,8 @@
 
 ==============
+
  LitWeather
+
 ==============
 
 LitWeather.py is a small-talk generator based on degrees and locale. 
