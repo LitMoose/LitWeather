@@ -11,6 +11,8 @@ I don't come here often, and figured it'd be a good way to break the ice.
 
 Tested with Python 3.2.7 in Windows 10 and 3.6.6 in Kali Linux
 
+_______________________________________________________________
+
 To Run in Windows: 
 
 Ensure Python is installed for Windows. 
@@ -27,6 +29,8 @@ If you run cmd from start, cd into the folder with LitWeather.py,
 type LitWeather.py and hit enter. 
 
 Enjoy :) 
+
+______________________________________________________________
 
 To Run in Linux: 
 
