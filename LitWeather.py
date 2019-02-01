@@ -70,7 +70,12 @@ elif choice == '9':
     print("Actually it's", Celsius(degrees) ,"Kelvins! Congratulations on being part of a logical temperature"
                                              " measurement system. We'd all switch, but it's not worth the mass "
                                              "confusion. ;)")
+elif choice == '1337':
+    print("HACK THE PLANET!")
 
+elif choice == '69': 
+    print("This is not the app you're looking for.")
+    
 else:
     print("Well, this is awkward. Did you use a space? Was there a typo? Are you messing with me? "
           "I'm not great at this yet. My peer reviewer was a cat.")
