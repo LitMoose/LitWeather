@@ -6,13 +6,13 @@
 ==============
 
 LitWeather.py is a small-talk generator based on degrees and locale. 
-This is the first thing I'm posting on GitHub and is largely a test for giggles. 
+I don't come here often, and figured it'd be a good way to break the ice. 
 
 Tested with Python 3.2.7 in Windows 10 and 3.6.6 in Kali Linux
 
 To Run in Windows: 
 
-Ensure Python is installed for windows. 
+Ensure Python is installed for Windows. 
 Save the LitWeather.py file
 Windows key + r, type cmd, hit enter
 OR 
