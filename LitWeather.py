@@ -61,7 +61,7 @@ elif choice == '6':
 
 elif choice == '7':
     print("YEEEEE HAW, THAT'S", Fahrenheit(degrees), "Kelvins! If'n yer not cookin' yer own, it's a great day for"
-                                                     " brisket and some Shiners. See ya at DHA!")
+                                                     " brisket and some Shiners. See ya at AHA!")
 elif choice == '8':
     print("Ach, is tha' all?! Quit yer greetin', tha's brammer weaither. Jist lest week when Ah was wearin' mah kilt, "
           "Ah go mah bawbag stuck tae a bench. Hud tae caa th' fire brigade.")
